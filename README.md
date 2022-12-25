@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @olegZmemer
-- 👀 I’m interested in working as Front-End developer
-- 🌱 I’m currently learning ReactJS and eco-system
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, my name is Oleg and I'm web developer. Excited about web-development and full proccess of creation web apps. Also fullfilled Linux enjoyer🐧
 
 <!---
 olegZmemer/olegZmemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
